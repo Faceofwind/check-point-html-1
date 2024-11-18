@@ -1,0 +1,40 @@
+header{
+    color: red;
+    text-align: center;
+}
+.list{
+   padding:10px;
+border-style: inset;
+border-radius: 60px;
+margin: 20px;
+border-color: #C3073F;
+
+}
+.item{
+    text-align: center; 
+}
+a{
+    text-decoration: none;
+    
+}
+.list:hover{
+    padding: 25px ;
+    
+
+}
+a:hover{
+    color: #4E4E50;
+}
+/* main{ 
+  text-align: center;
+}*/
+table{
+
+    margin-left: 600px  ;
+}
+img{
+
+    margin-top: 50px;
+}
+
+.item7,h1{ color: blue;}
